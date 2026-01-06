@@ -1,0 +1,12 @@
+body{
+  font-family: poppins,sans-serif;
+  height: 500vh;
+  background-color:rgba(8, 21, 77, 0.9);
+}
+
+html{
+  scroll-behavior: smooth;
+}
+.section{
+  scroll-margin-top: 20px;
+}
