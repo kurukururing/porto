@@ -1,7 +1,9 @@
 body{
   font-family: poppins,sans-serif;
   height: 500vh;
-  background-color:rgba(8, 21, 77, 0.9);
+  background: url(../public/5630939.jpg);
+  background-attachment: fixed; 
+  background-size: cover;
 }
 
 html{
@@ -9,4 +11,10 @@ html{
 }
 .section{
   scroll-margin-top: 20px;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
 }
